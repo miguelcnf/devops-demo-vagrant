@@ -8,6 +8,7 @@
 
 1. Install vagrant: https://www.vagrantup.com/downloads.html
 2. Initialise VM: `vagrant up`
-3. Access it with: `curl 0:8080/`
-4. Cleanup with: `vagrant destroy`
+3. Check VM status: `vagrant status`
+4. Access it with: `curl 0:8080/`
+5. Cleanup with: `vagrant destroy`
 
